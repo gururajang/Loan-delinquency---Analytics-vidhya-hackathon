@@ -1,4 +1,4 @@
-# Loan-delinquency---Analytics-Vidhya-hackathon
+# Loan-delinquency-Analytics-Vidhya-hackathon
 # Problem Statement
 
 Loan Delinquency Prediction
