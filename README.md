@@ -10,4 +10,6 @@ Given the information like mortgage details, borrowers related details and payme
 Evaluation Metric
 Submissions are evaluated on F1-Score between the predicted class and the observed target.
 
-## Leaderboard Score: .3398
+##Rank 54
+## Leaderboard Score: 0.42148
+
